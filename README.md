@@ -1,5 +1,5 @@
 # Regression
-Regression using Simple Linear Regression and Polynomial Curve Fitting and Autoregression.
+Regression using Simple Linear Regression and Polynomial Curve Fitting.
 
 I am given with data file atmosphere_data.csv that contains the readings from various sensors installed at 10 locations around Mandi district. These sensors measure the 
 different atmospheric factors like temperature, humidity, atmospheric pressure, amount of rain, average light, maximum light and moisture content. The goal of this dataset is to model the atmospheric temperature.
